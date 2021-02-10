@@ -13,3 +13,4 @@ console.log(`7 vezes 6 é = ${ 7*6}.`)
 //não funciona 
 
 
+//
